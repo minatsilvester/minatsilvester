@@ -277,7 +277,7 @@ class Portfolio extends React.Component{
         </div><br/><br/>
         <div className="container">
           <center>
-            <h1 className="title">See Ya! </h1>
+            <h1 className="title">See Ya ! </h1>
           </center>
         </div>
       </div>
