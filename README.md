@@ -1,10 +1,11 @@
 ### Hi there 👋
-##I'm Minat Silvester
+### I'm Minat Silvester
 
 🔭 Elixir/Phoenix, Ruby On Rails, ReactJs.
 
 🌱 FOSS Enthusiast.
 
+- 📫 I Make tutorial videos for different technologies on youtube, [click here to know more](https://www.youtube.com/channel/UCO4kvzDvzNfWqNBqX4WHMLg)  
 
 
 
