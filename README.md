@@ -5,8 +5,11 @@
 
 🌱 FOSS Enthusiast.
 
-- 📫 I Make tutorial videos for different technologies on youtube, [click here to know more](https://www.youtube.com/channel/UCO4kvzDvzNfWqNBqX4WHMLg)  
+📫 I Make tutorial videos for different technologies on youtube, [click here to See more](https://www.youtube.com/channel/UCO4kvzDvzNfWqNBqX4WHMLg)  
 
+💬 I Write articles on Medium, [Click here to read them](https://www.medium.com/@minat_silvester)
+
+:people_holding_hands: I’m looking to collaborate on Elixir/Phoenix and React projects
 
 
 <!--
